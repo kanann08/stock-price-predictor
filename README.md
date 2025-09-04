@@ -1,4 +1,4 @@
-# 📈 Stock Price Predictor using Keras LSTM
+# 📈 Stock Price Predictor using Keras and LSTM
 
 ## 🔍 Overview
 This project is a **Stock Price Prediction Web App** that forecasts future stock prices of publicly traded companies using a **Keras LSTM (Long Short-Term Memory) model**. Users can enter stock ticker symbols (e.g., AAPL, MSFT, GOOG) to view historical stock data, visualize trends, and see predicted prices for upcoming days.
